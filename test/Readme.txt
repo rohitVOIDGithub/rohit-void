@@ -1,2 +1,3 @@
 Read the information carefully...
 1. first change made
+2. added staging
